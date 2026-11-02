@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1, "name": "Алексей", "group": "ИУ10-33", "scholarship": 1000, "is_active": true
+  },
+
+  {
+    "id": 2, "name": "Мария", "group": "ИУ10-35", "scholarship": 2000, "is_active": true
+  },
+
+  {
+    "id": 3, "name": "Дмитрий", "group": "ИУ10-33", "scholarship": null, "is_active": false
+  },
+  
+  {
+    "id": 4, "name": "Елена", "group": "ИУ10-36", "scholarship": 5000, "is_active": true
+  }
+]

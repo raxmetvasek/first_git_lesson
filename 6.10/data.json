@@ -1,0 +1,9 @@
+{
+    "name": "Иван",
+    "is_student": true,
+    "grades": [
+        4,
+        5,
+        5
+    ]
+}
